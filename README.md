@@ -22,7 +22,33 @@ Enter your choice:
 
 #### Input Handling:  
 - Ensures the input is a valid number.  
-- Filters out invalid choices.  
+- Filters out invalid choices.
+  
+## How does it Work?
+
+The program operates through a menu-driven interface, allowing users to interact with the database by selecting various options. Here's a breakdown of how each functionality works:
+
+1. **Print All Records:**
+   - The program iterates through the list of stored records and prints the details of each part, including part number, name, size, and cost.
+
+2. **Add a Record:**
+   - The program prompts the user to enter details for a new part. It then uses `malloc()` to allocate memory for the new record and adds it to the database.
+
+3. **Delete the Last Record:**
+   - If there are any records in the database, the program uses `free()` to release the memory allocated for the last record and removes it from the list.
+
+4. **Print Number of Records:**
+   - The program counts and displays the total number of records currently stored in the database.
+
+5. **Print Database Size:**
+   - The program calculates and displays the total memory size occupied by the database, including all stored records.
+
+6. **Print Number of Changes:**
+   - The program tracks the number of modifications made to the database (such as adding or deleting records) and displays this count.
+
+7. **Exit:**
+   - The program terminates, releasing any dynamically allocated memory before exiting.
+
 
 ## Key Functionalities  
 
