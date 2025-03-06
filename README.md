@@ -25,10 +25,10 @@ Enter your choice:
 - Filters out invalid choices.  
 
 #### Menu Options:  
-- **Option 1:** Prints all records.  
-- **Option 2:** Adds a new record with user-provided details.  
-- **Option 3:** Deletes the last record (if any).  
-- **Option 4:** Prints the number of stored records.  
+- **Option 1:** Prints all records on database.  
+- **Option 2:** Adds a new record to the database.  
+- **Option 3:** Deletes the last record on database.  
+- **Option 4:** Prints the number of stored records on database.  
 - **Option 5:** Prints the database's memory size.  
 - **Option 6:** Tracks and prints the number of database modifications.  
 - **Option 7:** Exits the program.
