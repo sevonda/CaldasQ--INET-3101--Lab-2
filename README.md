@@ -3,7 +3,7 @@
 **INET 3101**  
 
 ## Program Description  
-This program manages a simple in-memory database using dynamic memory allocation. It allows users to store, view, and modify records containing part details. The program manually manage memory without relying on arrays. Additionally, users can add new records, delete the last record, and check database details through a menu-driven interface.  
+This program manages in-memory database designed to allows users to store, view, and modify records containing part details. The program manually manages memory without relying on arrays. Additionally, Users can add new records, delete the last record, and check database details through a menu-driven interface.  
 
 ## Menu Definition  
 When the program runs, the following menu is displayed:  
