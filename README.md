@@ -22,8 +22,6 @@ Enter your choice:
 
 ## Function Definitions  
 
-### main()  
-The `main()` function runs a loop that displays the menu and handles user input.  
 
 #### Input Handling:  
 - Ensures the input is a valid number.  
@@ -36,7 +34,11 @@ The `main()` function runs a loop that displays the menu and handles user input.
 - **Case 4:** Prints the number of stored records.  
 - **Case 5:** Prints the database's memory size.  
 - **Case 6:** Tracks and prints the number of database modifications.  
-- **Case 7:** Exits the program.  
+- **Case 7:** Exits the program.
+
+#### Input Handling:  
+- Ensures the input is a valid number.  
+- Filters out invalid choices.  
 
 ## Key Functionalities  
 
