@@ -24,15 +24,6 @@ Enter your choice:
 - Ensures the input is a valid number.  
 - Filters out invalid choices.  
 
-#### Menu Options:  
-- **Option 1:** Prints all records on database.  
-- **Option 2:** Adds a new record to the database.  
-- **Option 3:** Deletes the last record on database.  
-- **Option 4:** Prints the number of stored records on database.  
-- **Option 5:** Prints the database's memory size.  
-- **Option 6:** Tracks and prints the number of database modifications.  
-- **Option 7:** Exits the program.
-
 ## Key Functionalities  
 
 This program implements several key **C programming concepts**, including:  
