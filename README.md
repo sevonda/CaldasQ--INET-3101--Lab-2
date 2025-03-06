@@ -22,7 +22,7 @@ Enter your choice:
 
 ## Function Definitions  
 
-### 1. main()  
+### main()  
 The `main()` function runs a loop that displays the menu and handles user input.  
 
 #### Input Handling:  
