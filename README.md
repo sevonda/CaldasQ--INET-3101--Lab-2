@@ -18,11 +18,7 @@ Database Menu
 7. Exit
 Enter your choice:
 
-## Function Definitions  
 
-#### Input Handling:  
-- Ensures the input is a valid number.  
-- Filters out invalid choices.
   
 ## How does it Work?
 
@@ -48,6 +44,8 @@ The program operates through a menu-driven interface, allowing users to interact
 
 7. **Exit:**
    - The program terminates, releasing any dynamically allocated memory before exiting.
+  
+     
 
 
 ## Key Functionalities  
